@@ -1,5 +1,4 @@
-<h2>How to translate my site to another language</h2>
-
+pt.br 
 <p><a href="http://ph7cms.com/why-ph7cms-name">pH7CMS</a> uses gettext libraries and tools for internationalization.</p>
 
 <p>
